@@ -1,0 +1,7 @@
+alias ostart="systemctl start ometascan"
+alias ostop="systemctl stop ometascan"
+alias ostat="systemctl status ometascan"
+alias orestart="systemctl restart ometascan"
+alias oclean="rm -rf /var/lib/ometascan /usr/lib/ometascan /var/log/ometascan/"
+alias orm="arm ometascan; oclean"
+alias olog="tail -50 /var/log/ometascan/ometascan.log"
