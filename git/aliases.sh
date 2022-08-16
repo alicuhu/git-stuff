@@ -1,4 +1,5 @@
-### C:\Program Files\Git\etc\profile.d
+### C:\Program Files\Git\etc\profile.d\
+### C:\Users\<user>\AppData\Local\Programs\Git\etc\profile.d\
 alias ls='ls -F --color=auto --show-control-chars'
 alias ll='ls -l'
 alias gst='git status'

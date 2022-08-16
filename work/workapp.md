@@ -1,13 +1,9 @@
 # General
+* Unikey: https://www.unikey.org/
+* Total cmd: https://www.ghisler.com/download.htm
 * VSCode https://code.visualstudio.com/download
-* Git https://git-scm.com/downloads
-* Unikey https://www.unikey.org/
-* 7z https://www.7-zip.org/download.html
+* Git: https://git-scm.com/downloads
+* 7z: https://www.7-zip.org/download.html
+* Python: https://www.python.org/downloads/
 * Postman https://www.postman.com/downloads/
 * CMake https://cmake.org/download/
-
-# Windows
-* Visual Studio 2019
-
-# OPSWAT
-* Shared: https://opswat-vn-nas.us.opswat.com:8086
