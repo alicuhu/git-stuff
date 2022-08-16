@@ -5,7 +5,7 @@ cat ./aliases.sh >> ~/.bashrc
 ./git-alias.sh
 
 # SSH Key
-SSH_KEYNAME=id_ed25519
+SSH_KEYNAME=id_ed25519_personal
 ssh-keygen -t ed25519 -C "hoangnam.itus@gmail.com" -P "" -f ~/.ssh/$SSH_KEYNAME
-eval "$(ssh-agent -s)"
-ssh-add ~/.ssh/$SSH_KEYNAME
+# eval "$(ssh-agent -s)"
+# ssh-add ~/.ssh/$SSH_KEYNAME
