@@ -6,7 +6,10 @@ alias syslog="tail -30 /var/log/syslog"
 alias ai="apt install -y"
 alias arm="apt remove -y"
 alias au="apt update -y"
+alias s="service"
 
-if [ -f ~/.bash_aliases_opswat ]; then
-    . ~/.bash_aliases_opswat
+export C=/mnt/c
+
+if [ -f ~/.bash_aliases_company ]; then
+    . ~/.bash_aliases_company
 fi
