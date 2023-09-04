@@ -1,0 +1,4 @@
+export tmt=/mnt/c/workspace/repo/tmt
+export w_user=/mnt/c/Users/nahle
+
+alias tmt="cd $tmt &&  ./gradlew postgresComposeUp && cd client && npm start"

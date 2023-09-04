@@ -1,0 +1,7 @@
+# Set the default behavior, in case you don't have core.autocrlf set.
+* text=auto
+
+# Linux files
+*.sh text eol=lf
+
+# Update repo with: git add --renormalize .
