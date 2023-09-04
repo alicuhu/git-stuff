@@ -10,6 +10,6 @@ alias s="service"
 
 export C=/mnt/c
 
-if [ -f ~/.bash_aliases_company ]; then
-    . ~/.bash_aliases_company
+if [ -f ~/.bashrc_company ]; then
+    . ~/.bashrc_company
 fi
